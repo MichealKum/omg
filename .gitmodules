@@ -1,0 +1,3 @@
+[submodule "MTG_Tools"]
+	path = MTG_Tools
+	url = git@github.com:MichealKum/mtgtools.git
