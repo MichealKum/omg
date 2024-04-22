@@ -1,3 +1,6 @@
 [submodule "MTG_Tools"]
 	path = MTG_Tools
 	url = git@github.com:MichealKum/mtgtools.git
+[submodule "hatul-madan"]
+	path = hatul-madan
+	url = /Users/il2kondr4/work/projects/hatul-madan/
