@@ -3,4 +3,4 @@
 	url = git@github.com:MichealKum/mtgtools.git
 [submodule "hatul-madan"]
 	path = hatul-madan
-	url = /Users/il2kondr4/work/projects/hatul-madan/
+	url = git@this.is.fake.com:JohnDoe/hatul-madan.git
