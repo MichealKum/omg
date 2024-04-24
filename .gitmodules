@@ -1,9 +1,6 @@
 [submodule "MTG_Tools"]
 	path = MTG_Tools
 	url = git@github.com:MichealKum/mtgtools.git
-[submodule "hatul-madan"]
-	path = hatul-madan
-	url = git@this.is.fake.com:JohnDoe/hatul-madan.git
 [submodule "go-git"]
 	path = go-git
 	url = https://github.com/go-git/go-git
